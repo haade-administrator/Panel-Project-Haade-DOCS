@@ -15,6 +15,15 @@ export default defineConfig({
 
   lastUpdated: true,
   cleanUrls: true,
+
+    // ⚡ Ajout ici pour résoudre l'erreur vue-i18n en prod
+  vite: {
+    define: {
+      __VUE_PROD_DEVTOOLS__: false,    // nécessaire pour vue-i18n
+      __VUE_OPTIONS_API__: true,       // si tu utilises Options API
+      __INTLIFY_PROD_DEVTOOLS__: false // pour désactiver les devtools intlify en prod
+    }
+  },
   
   vue: {
     template: {
