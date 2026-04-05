@@ -1,0 +1,4 @@
+<HAGuard />
+
+# Climate widget
+<ClimateWidget />

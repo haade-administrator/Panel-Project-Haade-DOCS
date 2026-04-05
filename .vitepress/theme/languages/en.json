@@ -1,0 +1,67 @@
+{
+  "climate": {
+    "selectTitle": "Select a climate device:",
+    "placeholder": "Select device",
+    "noDevices": "No climate devices found",
+    "state": {
+      "off": "Off",
+      "heat": "Heating",
+      "cool": "Cooling",
+      "auto": "Auto",
+      "dry": "Dry",
+      "fan_only": "Fan",
+      "heat_cool": "Auto",
+      "heating": "Heating",
+      "cooling": "Cooling",
+      "idle": "Idle",
+      "drying": "Drying",
+      "fan": "Fan"
+    }
+  },
+  "download": {
+    "viewYaml": "View YAML",
+    "downloadYaml": "Download YAML",
+    "downloadAll": "Download all files",
+    "building": "Building...",
+    "loading": "Loading...",
+    "copy": "Copy",
+    "copied": "Copied",
+    "close": "Close",
+    "errorSingle": "Failed to download YAML",
+    "errorZip": "ZIP build error",
+    "assetManifestHttp": "asset_manifest.json HTTP {status}",
+    "assetManifestFormatError": "Invalid asset_manifest.json format",
+    "skippedAsset": "Skipped asset",
+    "readmeHeader": "Guition bundle",
+    "readmeAssets": "Assets (excluding templates/ & images/):",
+    "readmeTemplates": "Templates mapped:",
+    "readmeMapping": "Mapping:",
+    "readmeClimateEntity": "climate_entity:",
+    "entityNotSet": "(not set)",
+    "errorLoadingTemplatePrefix": "# Error loading",
+    "modalTitle": "climate_widget.yaml",
+    "ariaClose": "Close"
+  },
+  "haLogin": {
+    "title": "Connect to Home Assistant",
+    "urlLabel": "Home Assistant URL:",
+    "urlPlaceholder": "http://homeassistant.local:8123",
+    "connect": "Connect",
+    "connecting": "Connecting...",
+    "connectedTitle": "Connected to Home Assistant",
+    "returning": "Returning from authorization... Connecting...",
+    "errorPrefix": "Connection error:",
+    "statusLabel": "HA connection state",
+    "statusConnected": "Connected",
+    "statusDisconnected": "Disconnected",
+    "entitiesLabel": "Total entities",
+    "climateEntitiesLabel": "Climate entities",
+    "lightEntitiesLabel": "Light entities",
+    "refresh": "Refresh",
+    "disconnect": "Disconnect"
+  },
+  "haGuard": {
+    "checking": "Checking Home Assistant connection..."
+  }
+}
+

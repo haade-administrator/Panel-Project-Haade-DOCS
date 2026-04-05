@@ -1,0 +1,66 @@
+{
+  "climate": {
+    "selectTitle": "Выберите климатическое устройство:",
+    "placeholder": "Выберите устройство",
+    "noDevices": "Климатические устройства не найдены",
+    "state": {
+      "off": "Выключен",
+      "heat": "Обогрев",
+      "cool": "Охлаждение",
+      "auto": "Авто",
+      "dry": "Осушение",
+      "fan_only": "Вентилятор",
+      "heat_cool": "Авто",
+      "heating": "Нагревает",
+      "cooling": "Охлаждает",
+      "idle": "Ожидание",
+      "drying": "Осушает",
+      "fan": "Вентилирует"
+    }
+  },
+  "download": {
+    "viewYaml": "Просмотреть YAML",
+    "downloadYaml": "Скачать YAML",
+    "downloadAll": "Скачать все файлы",
+    "building": "Сборка...",
+    "loading": "Загрузка...",
+    "copy": "Скопировать",
+    "copied": "Скопировано",
+    "close": "Закрыть",
+    "errorSingle": "Не удалось скачать YAML",
+    "errorZip": "Ошибка сборки ZIP",
+    "assetManifestHttp": "asset_manifest.json HTTP {status}",
+    "assetManifestFormatError": "Неверный формат asset_manifest.json",
+    "skippedAsset": "Пропущен asset",
+    "readmeHeader": "Guition bundle",
+    "readmeAssets": "Assets (кроме templates/ & images/):",
+    "readmeTemplates": "Templates сопоставлено:",
+    "readmeMapping": "Mapping:",
+    "readmeClimateEntity": "climate_entity:",
+    "entityNotSet": "(не задано)",
+    "errorLoadingTemplatePrefix": "# Ошибка загрузки",
+    "modalTitle": "climate_widget.yaml",
+    "ariaClose": "Закрыть"
+  },
+  "haLogin": {
+    "title": "Подключение к Home Assistant",
+    "urlLabel": "URL Home Assistant:",
+    "urlPlaceholder": "http://homeassistant.local:8123",
+    "connect": "Подключиться",
+    "connecting": "Подключение...",
+    "connectedTitle": "Подключено к Home Assistant",
+    "returning": "Возврат после авторизации... Подключение...",
+    "errorPrefix": "Ошибка подключения:",
+    "statusLabel": "Состояние подключения к HA",
+    "statusConnected": "Подключено",
+    "statusDisconnected": "Не подключено",
+    "entitiesLabel": "Всего сущностей",
+    "climateEntitiesLabel": "Климатических сущностей",
+    "lightEntitiesLabel": "Сущностей света",
+    "refresh": "Обновить",
+    "disconnect": "Отключиться"
+  },
+  "haGuard": {
+    "checking": "Проверка подключения к Home Assistant..."
+  }
+}

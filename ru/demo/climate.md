@@ -1,0 +1,4 @@
+<HAGuard />
+
+# Виджет климата
+<ClimateWidget />
