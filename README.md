@@ -20,7 +20,7 @@ I welcome contributions to improve the documentation, especially translations to
 
 1. **Fork the Repository**
    ```bash
-   git fork https://github.com/alaltitov/Guition-ESP32-S3-4848S040-DOCS.git
+   git fork https://github.com/haade-administrator/Panel-Project-Haade-DOCS
    ```
 
 2. **Create a Feature Branch**
