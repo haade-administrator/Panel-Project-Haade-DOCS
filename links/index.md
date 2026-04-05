@@ -10,7 +10,7 @@
 
 ## Development
 
-- [Project GitHub](https://github.com/alaltitov/Guition-ESP32-S3-4848S040)
+- [Project GitHub](https://github.com/haade-administrator/Guition-ESP32-S3-4848S040)
 
 ## Learning
 

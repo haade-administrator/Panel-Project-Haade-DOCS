@@ -85,7 +85,7 @@ export const enConfig = {
       ],
     },
     editLink: {
-      pattern: 'https://github.com/alaltitov/Guition-ESP32-S3-4848S040-DOCS/edit/main/:path',
+      pattern: 'https://github.com/haade-administrator/Panel-Project-Haade-DOCS/edit/main/:path',
       text: 'Edit this page'
     },
   }

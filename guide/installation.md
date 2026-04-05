@@ -25,7 +25,7 @@ In this section, we'll thoroughly examine two main methods for installing the **
 
 To control devices, you need to enable the "Allow device to perform Home Assistant actions" option in the ESPHome integration with Home Assistant.
 
-Also install the custom [component](https://github.com/alaltitov/homeassistant-display-tools) for translation and covers for the media player.
+Also install the custom [component](https://github.com/haade-administrator/homeassistant-display-tools) for translation and covers for the media player.
 
 ## Method 1: Installation via ESPHome Builder:
 
@@ -33,7 +33,7 @@ Also install the custom [component](https://github.com/alaltitov/homeassistant-d
 While this method may seem simpler for users, it's not entirely so, since ESPHome Builder only sees files in the root of the esphome folder, meaning you can only edit the main.yaml file through it. To change demo entities to your own, you'll need to use another editor, such as File Editor
 :::
 
-1. Download the ZIP file from the [repository](https://github.com/alaltitov/Guition-ESP32-S3-4848S040)
+1. Download the ZIP file from the [repository](https://github.com/haade-administrator/Guition-ESP32-S3-4848S040)
 2. Transfer (copy) all files from the `src` folder of the repository as-is to the root of the `esphome` folder in Home Assistant (homeassistant/esphome)
 3. Open the `secrets.yaml` file (through ESPHome Builder, top right). Enter the data:
 
@@ -91,7 +91,7 @@ esphome version
 ### Step 2: Repository Cloning
 ```bash
 # Clone the repository
-git clone https://github.com/alaltitov/Guition-ESP32-S3-4848S040.git
+git clone https://github.com/haade-administrator/Guition-ESP32-S3-4848S040.git
 
 # Navigate to project folder
 cd Guition-ESP32-S3-4848S040

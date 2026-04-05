@@ -5,7 +5,7 @@ import { ruConfig } from './ru.js'
 export default defineConfig({
   title: 'Display ESP32-S3 Firmware',
   description: 'Documentation for Guition ESP32-S3-4848S040 ESPHome firmware',
-  base: '/Guition-ESP32-S3-4848S040-DOCS/',
+  base: '/Panel-Project-Haade-DOCS/',
   ignoreDeadLinks: [
     '/ru/guide/configuration',
     '/ru/guide/widgets', 
@@ -25,7 +25,7 @@ export default defineConfig({
   },
 
   head: [
-    ['meta', { name: 'vitepress-base', content: '/Guition-ESP32-S3-4848S040-DOCS/' }],
+    ['meta', { name: 'vitepress-base', content: '/Panel-Project-Haade-DOCS/' }],
     [
       'script',
       { type: 'text/javascript' },
@@ -117,7 +117,7 @@ export default defineConfig({
       }
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/alaltitov/Guition-ESP32-S3-4848S040' },
+      { icon: 'github', link: 'https://github.com/haade-administrator/Guition-ESP32-S3-4848S040' },
       { icon: 'youtube', link: 'https://youtube.com/@alaltitov' },
       { icon: 'discord', link: 'https://discord.com/channels/429907082951524364/1270223320989831178' },
       {

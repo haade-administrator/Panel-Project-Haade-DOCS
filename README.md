@@ -1,10 +1,10 @@
 # Guition ESP32-S3-4848S040 Firmware
 
-Guition ESP32-S3-4848S040 [firmware](https://github.com/alaltitov/Guition-ESP32-S3-4848S040)
+Guition ESP32-S3-4848S040 [firmware](https://github.com/haade-administrator/Guition-ESP32-S3-4848S040)
 
 ## 📖 Documentation
 
-Documentation is available [here](https://alaltitov.github.io/Guition-ESP32-S3-4848S040-DOCS)
+Documentation is available [here](https://alaltitov.github.io/Panel-Project-Haade-DOCS)
 
 ### Documentation includes:
 - 📋 **Installation Guide** - Step-by-step setup instructions
