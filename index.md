@@ -11,7 +11,7 @@ hero:
       link: '/guide/'
     - theme: alt
       text: 'GitHub'
-      link: 'https://github.com/haade-administrator/Guition-ESP32-S3-4848S040'
+      link: 'https://github.com/haade-administrator/Panel-Project-Haade'
 
 features:
   - icon: 🎨

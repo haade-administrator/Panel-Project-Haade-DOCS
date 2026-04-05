@@ -33,7 +33,7 @@
 Возможно, этот метод и является более простым для пользователя, но это не совсем так, так как ESPHome Builder видит только файлы в корне папки esphome, то есть через него Вы сможете править только файл main.yaml. А остальные файлы, чтобы изменить demo сущности на Ваши, придется использовать другой редактор, например File Editor 
 :::
 
-1. Скачайте ZIP файл из [репозитория](https://github.com/haade-administrator/Guition-ESP32-S3-4848S040)
+1. Скачайте ZIP файл из [репозитория](https://github.com/haade-administrator/Panel-Project-Haade)
 2. Перенесите (скопируйте) все файлы из папки `src` репозитория как есть в корень папки `esphome` в Home Assistant (homeassistant/esphome)
 3. Откройте файл `secrets.yaml` (через ESPHome Builder, сверху справа). Внесите в него данные:
 
@@ -91,10 +91,10 @@ esphome version
 ### Шаг 2: Клонирование репозитория
 ```bash
 # Клонируйте репозиторий
-git clone https://github.com/haade-administrator/Guition-ESP32-S3-4848S040.git
+git clone https://github.com/haade-administrator/Panel-Project-Haade.git
 
 # Перейдите в папку проекта
-cd Guition-ESP32-S3-4848S040
+cd Panel-Project-Haade
 
 # Откройте проект в VSCode
 code .

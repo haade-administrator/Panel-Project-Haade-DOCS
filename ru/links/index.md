@@ -10,7 +10,7 @@
 
 ## Разработка
 
-- [GitHub проекта](https://github.com/haade-administrator/Guition-ESP32-S3-4848S040)
+- [GitHub проекта](https://github.com/haade-administrator/Panel-Project-Haade)
 
 ## Обучение
 

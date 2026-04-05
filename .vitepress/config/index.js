@@ -117,7 +117,7 @@ export default defineConfig({
       }
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/haade-administrator/Guition-ESP32-S3-4848S040' },
+      { icon: 'github', link: 'https://github.com/haade-administrator/Panel-Project-Haade' },
       { icon: 'youtube', link: 'https://youtube.com/@alaltitov' },
       { icon: 'discord', link: 'https://discord.com/channels/429907082951524364/1270223320989831178' },
       {
